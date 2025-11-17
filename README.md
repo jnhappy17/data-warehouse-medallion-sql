@@ -8,8 +8,9 @@ This project highlights industry best practices for Data Engineering through the
 This project involves:
 
 **Data Architecture**: Designing a Modern Data Warehouse Using the Medallion Architecture with Bronze, Silver and Gold layers.  
-**ETL Pipelines**: Extracting, Transforming, and Loading data from source systems into the warehouse.  
+**ETL Pipelines**: Extracting, Transforming ( data cleaning and preparation), and Loading data from source systems into the warehouse.  
 **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.  
+**Tools & Technologies & Methods**: SQL (Window Functions, Joins).
 
 ## Specifications
 **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.  
